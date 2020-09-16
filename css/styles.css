@@ -23,18 +23,16 @@ hr {
 
 .skills-img1 {
 
-    width: 25%;
+    width: 27%;
     float: left;
     margin: auto 30px auto auto;
-
 }
 
 .skills-img2 {
 
-    width: 25%;
+    width: 27%;
     float: right;
     margin-right: 30px;
-
 }
 
 h1 {
@@ -44,7 +42,6 @@ h1 {
     color: #66BFBF;
     line-height: 2;
     margin-bottom: 0;
-
 }
 
 h2 {
@@ -60,13 +57,11 @@ h2 {
 
 h3 {
     color: #11999E;
-
 }
 
 p {
     color: #40514E;
-    line-height: 2;
-    
+    line-height: 2;   
 }
 
 a {
@@ -90,12 +85,6 @@ a {
 .intro {
     text-align: center;
     display: ;
-
-}
-
-.footer {
-;
-    
 }
 
 .copyright {
@@ -109,26 +98,21 @@ a {
     color: #11999E;
     text-decoration:none;
     font-size: 1.1rem;
-    font-weight: bolder;
-    
+    font-weight: bolder; 
 }
 
 .footer-link:hover{
     color:black;
 }
 
-
 .middle-container {
     text-align: center;
-
 }
 
 .bottom-container {
     background-color: #66BFBF;
     margin-top: 100px;
     padding:50px 0 20px;
-    
-
 }
 
 .contact-p {
@@ -157,8 +141,7 @@ a {
     border-radius: 15px;
     text-decoration:none;
     text-shadow: #40514E;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
 }
 
 .btn:hover{
@@ -166,8 +149,7 @@ a {
 }
 
 .responsive-img {
-    width: 60%;
-    
+    width: 60%; 
   }
 
   .responsive-img-cloud {
