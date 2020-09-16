@@ -1,0 +1,172 @@
+.div1 {
+    background-color: #EAF6F6;
+    padding-top: 150px;
+    
+
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    margin-bottom: 0;
+    
+}
+
+hr {
+    width: 3%;
+    border-style: none;
+    border-top: 7px dotted #EAF6F6;
+}
+
+.skills-img1 {
+
+    width: 25%;
+    float: left;
+    margin: auto 30px auto auto;
+
+}
+
+.skills-img2 {
+
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+
+}
+
+h1 {
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 7rem;
+    color: #66BFBF;
+    line-height: 2;
+    margin-bottom: 0;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+
+}
+
+h3 {
+    color: #11999E;
+
+}
+
+p {
+    color: #40514E;
+    line-height: 2;
+    
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profile {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+}
+
+.skill-row {
+    width: 50%;
+    margin-left: auto;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.intro {
+    text-align: center;
+    display: ;
+
+}
+
+.footer {
+;
+    
+}
+
+.copyright {
+    color: #EAF6F6;
+    padding:10px 0;
+    
+}
+
+.footer-link {
+    margin: auto 20px auto 20px;
+    color: #11999E;
+    text-decoration:none;
+    font-size: 1.1rem;
+    font-weight: bolder;
+    
+}
+
+.footer-link:hover{
+    color:black;
+}
+
+
+.middle-container {
+    text-align: center;
+
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin-top: 100px;
+    padding:50px 0 20px;
+    
+
+}
+
+.contact-p {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cloud-top {
+    position: absolute;
+    top: 10px;
+    margin-right: 100px;
+    margin-top:100px;
+}
+
+.cloud-bottom {
+    position: absolute;
+    margin-left: 0px;
+}
+
+.btn{
+    color: honeydew;
+    background-color:#4CAF50;
+    padding: 20px ;
+    margin: 25px;
+    border-radius: 15px;
+    text-decoration:none;
+    text-shadow: #40514E;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.btn:hover{
+    background-color: #40514E;
+}
+
+.responsive-img {
+    width: 60%;
+    
+  }
+
+  .responsive-img-cloud {
+    width: 15%;
+  }
